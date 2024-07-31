@@ -3,7 +3,7 @@
 
 This project is focused on detecting deepfake videos using deep learning techniques. Deepfakes are synthetic media in which a person in an existing image or video is replaced with someone else's likeness. The objective is to create a model that can accurately distinguish between real and manipulated videos.
 
-# Table of contents
+# Table of contents                      
 
   * [Introduction](#Introduction)
   * [Dataset](#Dataset)
