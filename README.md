@@ -10,7 +10,7 @@ This project is focused on detecting deepfake videos using deep learning techniq
   * [Model Architecture](#Model-Architecture)
   * [Installation](#installation)
   * [Usage](#Usage)
-  * [Contributing](#Contributing)
+  * [Contributors](#Contributors)
 
 # Introduction
 
