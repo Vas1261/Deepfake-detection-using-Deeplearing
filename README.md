@@ -72,3 +72,5 @@ We would like to thank all the contributors who have helped in making this proje
 
 - **[Lucky Nirankari](https://github.com/BhayanakAatma)** - *developed website, API, and optimizing the model for the project*
 - **[Mohd. Salim Shaik ](https://github.com/Salim-333)** - *Designing neural network architecture*
+- **[Vasant Pardeshi](https://github.com/Vas1261)** - *developed algorithm and documentation*
+
