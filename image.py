@@ -20,7 +20,7 @@ def image_pred(threshold=0.5,model='EfficientNetAutoAttB4',dataset='DFDC',image_
     - Xception
     """
     net_model = model
-
+ 
     """
     Choose a training dataset between
     - DFDC
