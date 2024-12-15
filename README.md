@@ -74,3 +74,7 @@ We would like to thank all the contributors who have helped in making this proje
 - **[Mohd. Salim Shaik ](https://github.com/Salim-333)** - *Designing neural network architecture*
 - **[Vasant Pardeshi](https://github.com/Vas1261)** - *developed algorithm and documentation*
 
+## Report & Published Paper
+
+- **[Report](https://drive.google.com/file/d/1Lr8E_ElSWWOIiUIuvGEpT0OxfBUWQitT/view?usp=sharing)**
+- **[Result Paper Published](https://drive.google.com/file/d/1tpx1sLR-fdI3mOfz8O_yGzv9JIRbDdA-/view?usp=sharing)**
